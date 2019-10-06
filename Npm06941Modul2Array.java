@@ -16,10 +16,8 @@ class Pegawai {
    
 }
 
-
-public class npmModul2Array {
+public class Npm06941Modul2Array {
     public static void main(String[] args) {
-
         Pegawai karyawan = new Pegawai();
 
         karyawan.tambahData(1, "andi", "programmer");
@@ -28,7 +26,5 @@ public class npmModul2Array {
         karyawan.tambahData(4, "didi", "programmer");
 
         karyawan.lihatData();
-
-        
     }
 }
