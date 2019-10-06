@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - npmModul2Array",
+            "request": "launch",
+            "mainClass": "npmModul2Array",
+            "projectName": "modul-2_30bda091"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - npmModul2LinkList",
+            "request": "launch",
+            "mainClass": "npmModul2LinkList",
+            "projectName": "modul-2_30bda091"
+        }
+    ]
+}
